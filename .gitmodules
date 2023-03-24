@@ -1,0 +1,24 @@
+[submodule ".frontmatter"]
+	path = .frontmatter
+	url = https://github.com/dgmjr-actions/.frontmatter.git
+[submodule "get-latest-release"]
+	path = get-latest-release
+	url = https://github.com/dgmjr-actions/get-latest-release.git
+[submodule "restore-dotnet-file"]
+	path = restore-dotnet-file
+	url = https://github.com/dgmjr-actions/restore-dotnet-file.git
+[submodule "setup-deployment-branch"]
+	path = setup-deployment-branch
+	url = https://github.com/dgmjr-actions/setup-deployment-branch.git
+[submodule "download-a-file-using-dotnet-file"]
+	path = download-a-file-using-dotnet-file
+	url = https://github.com/dgmjr-actions/download-a-file-using-dotnet-file.git
+[submodule "download-global.json"]
+	path = download-global.json
+	url = https://github.com/dgmjr-actions/download-global.json.git
+[submodule "build-using-dgmjrsdk"]
+	path = build-using-dgmjrsdk
+	url = https://github.com/dgmjr-actions/build-using-dgmjrsdk.git
+[submodule "restore-sleet"]
+	path = restore-sleet
+	url = https://github.com/dgmjr-actions/restore-sleet.git
