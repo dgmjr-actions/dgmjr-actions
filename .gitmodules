@@ -1,0 +1,3 @@
+[submodule "setup-deployment-branch"]
+	path = setup-deployment-branch
+	url = https://github.com/dgmjr-actions/setup-deployment-branch

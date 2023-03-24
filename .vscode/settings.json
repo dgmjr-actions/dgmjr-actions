@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#310D86",
+        "titleBar.activeBackground": "#4412BC",
+        "titleBar.activeForeground": "#FCFAFF"
+    },
+    "azureAutomation.directory.basePath": "Users/david/GitHub/dgmjr-io/dgmjr-actions"
+}
