@@ -10,3 +10,6 @@
 [submodule "setup-deployment-branch"]
 	path = setup-deployment-branch
 	url = https://github.com/dgmjr-actions/setup-deployment-branch.git
+[submodule "download-a-file-using-dotnet-file"]
+	path = download-a-file-using-dotnet-file
+	url = https://github.com/dgmjr-actions/download-a-file-using-dotnet-file.git
