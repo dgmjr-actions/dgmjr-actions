@@ -1,18 +1,9 @@
 ---
-author: David G. Moore, Jr.
-author_email: david@dgmjr.io
-title: MIT License
+authors:
+- dgmjr
+title: The MIT License
 license: MIT
-created: 2023-01-09-07:05:28
 lastmod: 2023-01-11T02:45:34.204Z
-tags:
-  - license
-  - IP
-  - copyright
-categories:
-  - license
-  - IP
-  - copyright
 keywords:
   - license
   - mit
@@ -20,8 +11,6 @@ keywords:
   - copyright
 description: The MIT License
 date: 2023-01-16T11:55:48.194Z
-authors:
-  - dgmjr
 slug: mit-license
 ---
 # MIT License
