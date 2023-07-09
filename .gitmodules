@@ -13,3 +13,6 @@
 [submodule "download-a-file-using-dotnet-file"]
 	path = download-a-file-using-dotnet-file
 	url = https://github.com/dgmjr-actions/download-a-file-using-dotnet-file.git
+[submodule "download-global.json"]
+	path = download-global.json
+	url = https://github.com/dgmjr-actions/download-global.json.git
