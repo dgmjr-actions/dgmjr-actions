@@ -22,3 +22,6 @@
 [submodule "restore-sleet"]
 	path = restore-sleet
 	url = https://github.com/dgmjr-actions/restore-sleet.git
+[submodule "actions-runner"]
+	path = actions-runner
+	url = https://github.com/dgmjr-actions/actions-runner.git
