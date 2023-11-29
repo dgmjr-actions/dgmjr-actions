@@ -34,3 +34,6 @@
 [submodule "delete-github-package-version"]
 	path = delete-github-package-version
 	url = https://github.com/dgmjr-actions/delete-github-package-version.git
+[submodule "setup-dgmjrsdk"]
+	path = setup-dgmjrsdk
+	url = https://github.com/dgmjr-actions/setup-dgmjrsdk.git
