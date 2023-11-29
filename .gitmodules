@@ -31,3 +31,6 @@
 [submodule "nuget-push"]
 	path = nuget-push
 	url = https://github.com/dgmjr-actions/nuget-push.git
+[submodule "delete-github-package-version"]
+	path = delete-github-package-version
+	url = https://github.com/dgmjr-actions/delete-github-package-version.git
