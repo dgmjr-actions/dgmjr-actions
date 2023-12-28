@@ -37,3 +37,9 @@
 [submodule "setup-dgmjrsdk"]
 	path = setup-dgmjrsdk
 	url = https://github.com/dgmjr-actions/setup-dgmjrsdk.git
+[submodule "git-checkout"]
+	path = git-checkout
+	url = https://github.com/dgmjr-actions/git-checkout.git
+[submodule "gh-login-with-token"]
+	path = gh-login-with-token
+	url = https://github.com/dgmjr-actions/gh-login-with-token.git
