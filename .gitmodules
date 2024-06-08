@@ -43,3 +43,6 @@
 [submodule "gh-login-with-token"]
 	path = gh-login-with-token
 	url = https://github.com/dgmjr-actions/gh-login-with-token.git
+[submodule "setup-nuget"]
+	path = setup-nuget
+	url = https://github.com/dgmjr-actions/setup-nuget.git
