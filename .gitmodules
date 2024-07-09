@@ -1,0 +1,57 @@
+[submodule ".frontmatter"]
+	path = .frontmatter
+	url = https://github.com/dgmjr-actions/.frontmatter.git
+[submodule "get-latest-release"]
+	path = get-latest-release
+	url = https://github.com/dgmjr-actions/get-latest-release.git
+[submodule "restore-dotnet-file"]
+	path = restore-dotnet-file
+	url = https://github.com/dgmjr-actions/restore-dotnet-file.git
+[submodule "setup-deployment-branch"]
+	path = setup-deployment-branch
+	url = https://github.com/dgmjr-actions/setup-deployment-branch.git
+[submodule "download-a-file-using-dotnet-file"]
+	path = download-a-file-using-dotnet-file
+	url = https://github.com/dgmjr-actions/download-a-file-using-dotnet-file.git
+[submodule "restore-global.json"]
+	path = restore-global.json
+	url = https://github.com/dgmjr-actions/download-global.json.git
+[submodule "build-using-dgmjrsdk"]
+	path = build-using-dgmjrsdk
+	url = https://github.com/dgmjr-actions/build-using-dgmjrsdk.git
+[submodule "restore-sleet"]
+	path = restore-sleet
+	url = https://github.com/dgmjr-actions/restore-sleet.git
+[submodule "actions-runner"]
+	path = actions-runner
+	url = https://github.com/dgmjr-actions/actions-runner.git
+[submodule "sonar-scanner"]
+	path = sonar-scanner
+	url = https://github.com/dgmjr-actions/sonar-scanner.git
+[submodule "nuget-push"]
+	path = nuget-push
+	url = https://github.com/dgmjr-actions/nuget-push.git
+[submodule "delete-github-package-version"]
+	path = delete-github-package-version
+	url = https://github.com/dgmjr-actions/delete-github-package-version.git
+[submodule "setup-dgmjrsdk"]
+	path = setup-dgmjrsdk
+	url = https://github.com/dgmjr-actions/setup-dgmjrsdk.git
+[submodule "git-checkout"]
+	path = git-checkout
+	url = https://github.com/dgmjr-actions/git-checkout.git
+[submodule "gh-login-with-token"]
+	path = gh-login-with-token
+	url = https://github.com/dgmjr-actions/gh-login-with-token.git
+[submodule "setup-nuget"]
+	path = setup-nuget
+	url = https://github.com/dgmjr-actions/setup-nuget.git
+[submodule "install-composer"]
+	path = install-composer
+	url = https://github.com/dgmjr-actions/install-composer.git
+[submodule "sleet-push"]
+	path = sleet-push
+	url = https://github.com/dgmjr-actions/sleet-push.git
+[submodule "setup-sleet"]
+	path = setup-sleet
+	url = https://github.com/dgmjr-actions/setup-sleet.git
